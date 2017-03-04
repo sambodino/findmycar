@@ -15,7 +15,7 @@
 		6284B34C1E6684DD00DF1228 /* FindCarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6284B34B1E6684DD00DF1228 /* FindCarViewController.swift */; };
 		6284B34F1E6A020F00DF1228 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6284B34E1E6A020F00DF1228 /* MapKit.framework */; };
 		6284B3511E6A024400DF1228 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6284B3501E6A024400DF1228 /* CoreLocation.framework */; };
-		6284B3861E6A5C8A00DF1228 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6284B3851E6A5C8A00DF1228 /* GoogleService-Info.plist */; };
+		6284B3881E6B808300DF1228 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6284B3871E6B808300DF1228 /* GoogleService-Info.plist */; };
 		D408739BF8B47119ACD7F294 /* Pods_findmycar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 682114F030FB6B3FE29EC512 /* Pods_findmycar.framework */; };
 /* End PBXBuildFile section */
 
@@ -31,7 +31,7 @@
 		6284B34B1E6684DD00DF1228 /* FindCarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindCarViewController.swift; sourceTree = "<group>"; };
 		6284B34E1E6A020F00DF1228 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		6284B3501E6A024400DF1228 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
-		6284B3851E6A5C8A00DF1228 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		6284B3871E6B808300DF1228 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		682114F030FB6B3FE29EC512 /* Pods_findmycar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_findmycar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		988D725C80F2A6FC995E1A4F /* Pods-findmycar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-findmycar.release.xcconfig"; path = "Pods/Target Support Files/Pods-findmycar/Pods-findmycar.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -78,7 +78,7 @@
 				6284B33E1E667B3600DF1228 /* Assets.xcassets */,
 				6284B3401E667B3600DF1228 /* LaunchScreen.storyboard */,
 				6284B3431E667B3600DF1228 /* Info.plist */,
-				6284B3851E6A5C8A00DF1228 /* GoogleService-Info.plist */,
+				6284B3871E6B808300DF1228 /* GoogleService-Info.plist */,
 			);
 			path = findmycar;
 			sourceTree = "<group>";
@@ -171,7 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6284B3421E667B3600DF1228 /* LaunchScreen.storyboard in Resources */,
-				6284B3861E6A5C8A00DF1228 /* GoogleService-Info.plist in Resources */,
+				6284B3881E6B808300DF1228 /* GoogleService-Info.plist in Resources */,
 				6284B33F1E667B3600DF1228 /* Assets.xcassets in Resources */,
 				6284B33D1E667B3600DF1228 /* Main.storyboard in Resources */,
 			);
