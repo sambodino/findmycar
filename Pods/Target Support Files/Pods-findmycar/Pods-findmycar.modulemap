@@ -1,0 +1,6 @@
+framework module Pods_findmycar {
+  umbrella header "Pods-findmycar-umbrella.h"
+
+  export *
+  module * { export * }
+}
